@@ -13,3 +13,4 @@
 
 (3) 메인 메모리의 역할?
 -> 프로세서와 보조기억장치 사이에 있습니다. 여기서 발생하는 디스크 입출력 병목 현상을 해결하는 역할입니다. 
+https://1.bp.blogspot.com/-RO4nJjZ_Jhk/Wpu66FN9wNI/AAAAAAAAAaQ/U0Oxvu-Kjcg1hIFS_Nb7IXozNDUSJafigCLcBGAs/s1600/1.png
